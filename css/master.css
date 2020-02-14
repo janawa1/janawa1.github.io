@@ -48,6 +48,31 @@ width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
+#wrapperbox{
+  height:50%;
+  width: 100%;
+  background-color:black;
+  display: flex;
+}
+#box1{
+  height:100%;
+  width: 50%;
+  backgorund-color:yellow;
+}
+#box2{
+  height:100%;
+  width:50%;
+  background-color:lightblue;
+}
+
+
+#bottenboxen{
+  height:50%;
+  width:100%;
+  background-color: green;
+}
+
+
 @media only screen and (max-width: 600px) {
 
   #mainwrapper{
