@@ -1,11 +1,11 @@
 h2{
 
-   background-color: gray;
+   background-color: white;
 
  }
 
 header{
-   background-color: red;
+   background-color: white;
    height: 100px;
    width: 100%;
 
@@ -15,26 +15,26 @@ nav{
 
 
 
-background-color: orange;
+background-color: white;
 height: 50px;
 width: 100%;
 
 }
 main{
-  background-color: blue;
+  background-color: white;
   height: 300px;
   width: 70%;
 }
 
 aside{
-background-color: gray;
+background-color: white;
 height: 300px;
 width: 30%;
 }
 
 footer{
-  background-color: pink;
-height: 100px;
+  background-color: white;
+height: 75px;
 width: 100%;
 
 }
@@ -51,25 +51,25 @@ width: 100%;
 #wrapperbox{
   height:50%;
   width: 100%;
-  background-color:brown;
+  background-color:white;
   display: flex;
 }
 #box1{
   height:100%;
   width: 50%;
-  backgorund-color:yellow;
+  backgorund-color:white;
 }
 #box2{
   height:100%;
   width:50%;
-  background-color:lightblue;
+  background-color:white;
 }
 
 
 #bottenboxen{
   height:50%;
   width:100%;
-  background-color: green;
+  background-color: white;
 }
 
 
